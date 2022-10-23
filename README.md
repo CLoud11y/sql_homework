@@ -2,7 +2,7 @@
 # Q1
   ![image](results/Q1.png)
 # Q2
-  ![image](results/2.png)
+  ![image](results/Q2.png)
 # Q3
   ![image](results/Q3.png)
 # Q4
