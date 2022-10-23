@@ -1,5 +1,11 @@
 # sql_homework
 # Q1
+  '''
+  select distinct shipname, substr(shipname,1,instr(shipname, "-")-1)
+  from 'order'
+  where shipname like '%-%'
+  order by shipname asc;
+  '''
   ![image](results/Q1.png)
 # Q2
   ![image](results/Q2.png)
